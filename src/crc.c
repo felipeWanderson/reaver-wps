@@ -31,7 +31,6 @@
  *  files in the program, then also delete it here.
  */
 
-#include "crc.h"
 
 /**********************************************************************/
 /* The following was grabbed and tweaked from the old snippets collection
